@@ -119,7 +119,7 @@ O botão de **Parada de Emergência** envia um **broadcast prioritário** via We
 ## 🎥 Demonstração
 
 
-![demon](images/demo.mp4)
+demo link: https://youtu.be/G-d4Xdzv1eA
 
 ---
 
@@ -277,7 +277,7 @@ The **Emergency Stop** button sends a **priority broadcast** via WebSocket to th
 
 ## 🎥 Demo
 
-
+demo link: https://youtu.be/G-d4Xdzv1eA
 
 ---
 
