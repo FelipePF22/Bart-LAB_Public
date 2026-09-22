@@ -1,6 +1,5 @@
 # 🚀 BART Command Center
 
-![Banner](images/banner.png)
 
 > 🌐 **Selecione o idioma / Choose your language**
 
